@@ -39,10 +39,8 @@
     "grunt": "~0.4.1"
   },
   "dependencies": {
-    "bower": "~1.6",
-    "temporary": "0.0.8"
-  },
-  "peerDependencies": {
+    "bower": "~1.5",
+    "temporary": "0.0.8",
     "phantomjs": "~1.9.2-2",
     "grunt": "~0.4.1"
   },
